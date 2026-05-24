@@ -205,6 +205,12 @@
 
 原项目及相关开源部分遵循 MIT License。你在使用、修改和分发时，请保留仓库中的许可证和来源说明。
 
+## 额外文档
+
+- [FAQ](docs/FAQ.md)
+- [Changelog](docs/CHANGELOG.md)
+- [当前 Release 说明](docs/releases/v0.1.4.md)
+
 ## 支持与交流
 
 - **先点 Star，再提问题，真的非常感谢。**
